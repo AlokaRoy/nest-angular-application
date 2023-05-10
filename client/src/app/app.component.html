@@ -1,0 +1,10 @@
+<h1>Check-out our latest collection at YourStore.in</h1>
+<nav>
+  <a routerLink="/authorization" *ngIf="!isSignedUp && !isLoggedIn">Please sign-up first.</a>
+  <a routerLink="/authorization" (click)="onLogout()" *ngIf="isLoggedIn">Logout</a>
+</nav>
+<div *ngIf="isSignedUp && !isLoggedIn">You may login now or sign-up with a different account.</div>
+<div class="container">
+  <router-outlet></router-outlet>
+</div>
+
