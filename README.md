@@ -71,3 +71,26 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 Nest is [MIT licensed](LICENSE).
+
+## Screenshots
+
+![Page 1](https://github.com/AlokaRoy/nest-angular-application/assets/55176235/25d6e2d8-0b0d-45a8-85e6-e73509e605f2)
+
+![Page 2 unfilled form](https://github.com/AlokaRoy/nest-angular-application/assets/55176235/4a697a58-139b-4e50-b2bd-8b3ea3941496)
+
+![Page 2 filled form](https://github.com/AlokaRoy/nest-angular-application/assets/55176235/b90bbffc-533d-48c3-85b8-f5078ee46166)
+
+![Page 2 sign-up successful](https://github.com/AlokaRoy/nest-angular-application/assets/55176235/fa84cbb8-b6c2-4855-aed3-2d7e424e96de)
+
+![Page 3 before login](https://github.com/AlokaRoy/nest-angular-application/assets/55176235/6edb8e02-ccab-419f-9125-a26f6f33119a)
+
+![Page 3 after login](https://github.com/AlokaRoy/nest-angular-application/assets/55176235/5857e1c0-d2b6-47c1-a668-962a69506a7b)
+
+![Page 4 empty list products page](https://github.com/AlokaRoy/nest-angular-application/assets/55176235/28f656c5-f2b3-44de-bb2b-cf6fba4bcc22)
+
+![Page 4 list added in products page](https://github.com/AlokaRoy/nest-angular-application/assets/55176235/3f0827dc-0b10-4e99-94f6-3167cfac8527)
+
+![Page 4 edit product](https://github.com/AlokaRoy/nest-angular-application/assets/55176235/87248687-c5cd-48d4-8357-7af5609225f7)
+
+![Page 4 delete product](https://github.com/AlokaRoy/nest-angular-application/assets/55176235/0c2a9083-8e98-4f19-b733-cb1ed679aecc)
+
